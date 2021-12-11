@@ -6,6 +6,7 @@ main()
 {
     new output[12];
     
+    // Code: https://gist.github.com/kidk/44b8cd699c5879f1084f
     BF_Interpret(output, 
         "Hello World in brainfuck\
         +++++ +++               Set Cell #0 to 8\
