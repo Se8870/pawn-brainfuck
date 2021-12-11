@@ -1,6 +1,6 @@
 #include <a_samp>
 
-#include "Brainfuck.inc"
+#include "brainfuck.inc"
 
 main()
 {
